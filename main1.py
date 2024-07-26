@@ -9,7 +9,7 @@ import db
 #import wikipedia
 
 #import pickle
-TOKEN = '6476391861:AAHTIUK446Kb6IBjF0izE_hfQN_s9iOiiJs'
+TOKEN = '...'
 bot = TeleBot(TOKEN)
 
 #points = 0
